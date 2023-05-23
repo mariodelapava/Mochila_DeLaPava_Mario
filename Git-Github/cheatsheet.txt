@@ -1,0 +1,10 @@
+CHEATSHEET GIT GITHUB
+git init 
+git status
+git add .
+git commit -m "nombre commit"
+git romote add origin "dirección repositorio"
+git remote -v 
+git push origin main 
+git branch "nombre branch"
+git checkout "nombre branch"
