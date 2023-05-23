@@ -8,3 +8,4 @@ git remote -v
 git push origin main 
 git branch "nombre branch"
 git checkout "nombre branch"
+git log --oneline 
